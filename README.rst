@@ -7,7 +7,7 @@ in the Go programming language.
 It's MIT licensed, but probably too trivial to have any protection any
 way. Go forth and use it.
 
-Install like this:
+Install like this::
 
   go get github.com/tv42/seed
 
