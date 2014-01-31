@@ -13,4 +13,4 @@ Install like this::
 
 Read the package documentation at
 
-http://go.pkgdoc.org/github.com/tv42/seed
+http://godoc.org/github.com/tv42/seed
