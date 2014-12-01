@@ -20,7 +20,7 @@ func Seed() int64 {
 	return seed
 }
 
-// Create a randomly-seeded pseudo-random number source
+// Create a randomly-seeded pseudo-random number source.
 // See math/rand.
 func Source() rand.Source {
 	return rand.NewSource(Seed())
